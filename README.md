@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/$%20um\\abs%20--solo--building%20AI%20tools%20for%20devs-0f0f0f?style=for-the-badge&logo=terminal&logoColor=10b981&labelColor=000000" />
+  <img src="https://img.shields.io/badge/$%20um\abs%20--solo--building%20AI%20tools%20for%20devs-0f0f0f?style=for-the-badge&logo=terminal&logoColor=10b981&labelColor=000000" />
 </h1>
 
 <p align="center">
@@ -17,10 +17,15 @@
 $ ls /projects
 
 paggio – replay webhooks instantly
+
 refundo – auto-fight chargebacks
+
 errly – dev-first error alerts
+
 tailr – generate job packs + mock interviews
+
 grabstays – AI tools for Airbnb hosts
+
 cliply – universal clipboard sync
 
 

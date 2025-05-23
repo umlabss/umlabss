@@ -1,44 +1,35 @@
-# hi, I’m um\abs — solo-building AI tools for devs
-```
+<h1 align="center">
+  <img src="https://img.shields.io/badge/$%20um\\abs%20--solo--building%20AI%20tools%20for%20devs-0f0f0f?style=for-the-badge&logo=terminal&logoColor=10b981&labelColor=000000" />
+</h1>
 
-![Supabase](https://img.shields.io/badge/built_with-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Resend](https://img.shields.io/badge/emails-powered_by_Resend-ff6363?style=flat-square)
-![Next.js](https://img.shields.io/badge/stack-Next.js-black?style=flat-square&logo=next.js)
-![Shadcn/UI](https://img.shields.io/badge/ui-shadcn/ui-0ea5e9?style=flat-square)
-![12x12](https://img.shields.io/badge/12_startups-12_months-10b981?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-ff6363?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/shadcn/ui-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/12_startups-12_months-10b981?style=flat-square" />
+</p>
 
 ---
 
-### current drops
+## 🧠 current drops
 
-```bash
 $ ls /projects
 
-> paggio     # replay webhooks instantly
-> refundo    # auto-fight chargebacks
-> errly      # dev-first error alerts
-> tailr      # generate job packs + mock interviews
-> grabstays  # ai tools for airbnb hosts
-> cliply     # universal clipboard sync
-```
+paggio – replay webhooks instantly
+refundo – auto-fight chargebacks
+errly – dev-first error alerts
+tailr – generate job packs + mock interviews
+grabstays – AI tools for Airbnb hosts
+cliply – universal clipboard sync
+
 
 ---
 
-### want to collab?
+## 🤝 want to collab?
 
 ```bash
-# follow / reach out
-alias github = "https://github.com/umlabss"
-alias twitter = "https://twitter.com/umlabss"
+alias github    = "https://github.com/umlabss"
+alias twitter   = "https://twitter.com/umlabss"
 alias instagram = "https://instagram.com/umlabs.io"
-alias contact = "mailto:hello@umlabs.io"
-```
-
----
-
-🧑‍💻 built with `vim`, `caffeine`, and `ctrl+c ctrl+v`.
-
-<!---
-umabs/umabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+alias contact   = "mailto:hello@umlabs.io"
